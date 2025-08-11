@@ -2,6 +2,14 @@
 
 This project demonstrates deploying an Nginx application on a local Kubernetes cluster using Minikube.
 
+## Tasks
+   1. **Minikube** – To create and manage the local Kubernetes cluster.
+   2. **kubectl** – Kubernetes command-line tool to deploy, manage, and inspect resources.
+   3. **Docker** – Container runtime to build and run containerized applications.
+   4. **Windows PowerShell** – Command-line interface used to run kubectl and other commands.
+   5. **YAML** – For defining Kubernetes deployment and service configurations.
+   6. **Git & GitHub** – For version control and sharing project files.
+
 ## Files
 - **deployment.yaml** → Defines the Nginx Deployment.
 - **service.yaml** → Exposes the Nginx application as a NodePort service.
